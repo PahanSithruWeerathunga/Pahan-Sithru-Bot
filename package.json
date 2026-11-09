@@ -1,0 +1,14 @@
+{
+  "name": "wa-ai-bot",
+  "version": "1.0.0",
+  "description": "Free Independent WA AI Auto Reply",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.1.1",
+    "@whiskeysockets/baileys": "^6.7.8",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
